@@ -15,7 +15,7 @@
 var canvas = document.getElementById("canvas1"),
     ctx1 = canvas.getContext("2d"),
     keyword1 = "HAPPY BIRTHDAY",
-    keyword2 = "SHARICE",
+    keyword2 = "SHIVANGI",
     imageData,
     density =1,
     mouse = {},
